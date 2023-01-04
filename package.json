@@ -1,21 +1,21 @@
 {
-  "name": "filmoteka-team-11",
+  "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://IsaacQQ.github.io/filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka-team-11/"
+    "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexAmanitas/filmoteka-team-11.git"
+    "url": "git+https://github.com/IsaacQQ/filmoteka.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexAmanitas/filmoteka-team-11/issues"
+    "url": "https://github.com/IsaacQQ/filmoteka/issues"
   },
   "dependencies": {
     "@glidejs/glide": "^3.6.0",
